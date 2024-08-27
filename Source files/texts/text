@@ -1,0 +1,9 @@
+File transfer using Packet and BPSK
+Jump to navigation
+Jump to search
+
+This is a Proof of Concept design.
+Please leave comments in the Discussion tab above, or on the GNU Radio General Chat channel. See Chat.
+
+This package consists of a packet transmitter, a channel simulation, and a packet receiver. It has been developed and tested with GNU Radio version 3.10.6.0. For Over The Air testing, a Transmit / Receive SDR module is used in place of the channel simulation. 
+
