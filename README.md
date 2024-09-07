@@ -3,7 +3,7 @@ Innovative system for robust file sharing between two computers using Software D
 ![image](https://github.com/user-attachments/assets/122f4d4a-8c95-41ed-bff6-ff2315bbb47a)
 ## Introduction
 
-The Fileflow project, part of our Semester 3 Communication Design module, aims to create a simple, robust file sharing system for audio, video, and text files between two computers. This system employs RTL-SDR (Software Defined Radio) and BladeRF devices, known for their flexibility and high performance in wireless communication. Utilizing GNU Radio software, we will implement the software components necessary for encoding, transmitting, receiving, and decoding files, ensuring a customizable and efficient communication pipeline. This project highlights the practical applications of these advanced technologies in modern file sharing solutions.
+The Fileflow project, part of our Semester 3 Communication Design module, aims to create a simple, robust file sharing system for audio, video, and text files between two computers. This system employs RTL-SDR (Software Defined Radio) and BladeRF devices, known for their flexibility and high performance in wireless communication. Utilizing GNU Radio software, we implemented the software components necessary for encoding, transmitting, receiving, and decoding files, ensuring a customizable and efficient communication pipeline. This project highlights the practical applications of these advanced technologies in modern file sharing solutions.
 
 ## Requirements
 
