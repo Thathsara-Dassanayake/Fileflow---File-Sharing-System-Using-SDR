@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: L.H.Maduwantha
+    author: D.M.T.K.R Dassanayake
     catch_exceptions: 'True'
     category: '[GRC Hier Blocks]'
     cmake_opt: ''
